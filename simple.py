@@ -56,3 +56,4 @@ with open(out, mode) as f:
     for d in dlist:
         f.write('|'.join(d.values()))
         f.write('\n')
+#that is it
